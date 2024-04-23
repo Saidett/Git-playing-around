@@ -1,12 +1,9 @@
 # Test file for GIT
 
 install.packages("tidyr")
-
-# what if i edit in between?
+install.packages("usethis")
 
 library(tidyr)
-
-
-
+library(usethis)
 
 
